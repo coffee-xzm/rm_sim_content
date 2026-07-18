@@ -1,0 +1,6 @@
+# Empty/generated editor directories are not assets and Git cannot preserve them.
+__ExternalActors__/
+__ExternalObjects__/
+Developers/
+Collections/
+_GENERATED/
